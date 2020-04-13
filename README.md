@@ -1,1 +1,1 @@
-# hello-world
+My name is Abdulrashid Isah, I am 26 years old, and a 2016 graduate of Electrical Engineering from the Ahmadu Bello University Zaria. As an aspiring scholar who is interested in continuous professional development in technical aspect of Electrical and Computer Engineering profession and who has a great passion for coding especially in python and c languages. 
